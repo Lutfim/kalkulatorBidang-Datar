@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KALBIDDAT</string>
+    <string name="panjang_alas_diameter">Panjang/Alas/Diameter</string>
+    <string name="lebar_tinggi">Lebar/Tinggi</string>
+    <string name="luas_persegi">LUAS PERSEGI</string>
+    <string name="keliling_persegi">KELILING PERSEGI</string>
+    <string name="luas_segitiga">LUAS SEGITIGA</string>
+    <string name="bidang_datar">BIDANG DATAR</string>
+    <string name="kalkulator">KALKULATOR</string>
+</resources>
